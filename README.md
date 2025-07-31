@@ -19,7 +19,7 @@ Available search queries can be found [here](https://forkify-api.herokuapp.com/p
 - Forkify API
 - Fracty Library
 
-## Getting Started
+## Installation and Usage
 
 This project requires the presence or installation of particular dependencies, instructions to which can be found below.
 
